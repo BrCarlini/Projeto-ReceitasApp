@@ -7,7 +7,8 @@ Obs.: Projeto em andamento
 #
 
 ## Activity de Feed vazia.
-![image](https://user-images.githubusercontent.com/62159849/197925750-d1e9473e-d564-42e2-a4d9-f76d8c4ac199.png)
+![image](https://user-images.githubusercontent.com/62159849/197926058-6d03bd25-f88e-4029-b503-c53241a57bfb.png)
+
 
 #
 
